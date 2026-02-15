@@ -41,3 +41,16 @@ The following steps were performed in Excel:
 ---
 
 ## 📂 Project Structure
+
+Superstore-Sales-Analysis-Excel-PowerBI
+│
+├── Data
+│ └── Superstore_Cleaned.xlsx
+├── Dashboard
+│ └── Superstore_Dashboard.pbix
+├── Screenshots
+│ └── dashboard.png
+└── README.md
+
+## ✅ Conclusion
+This project demonstrates my skills in **data cleaning using Excel**, **data visualization using Power BI**, and **deriving business insights from data**.
